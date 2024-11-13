@@ -8,7 +8,7 @@ use Intervention\Zodiac\AbstractZodiac;
 
 class Libra extends AbstractZodiac
 {
-    protected int $startDay = 24;
+    protected int $startDay = 23;
     protected int $startMonth = 9;
     protected int $endDay = 23;
     protected int $endMonth = 10;

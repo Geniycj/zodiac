@@ -8,7 +8,7 @@ use Intervention\Zodiac\AbstractZodiac;
 
 class Sagittarius extends AbstractZodiac
 {
-    protected int $startDay = 23;
+    protected int $startDay = 22;
     protected int $startMonth = 11;
     protected int $endDay = 21;
     protected int $endMonth = 12;

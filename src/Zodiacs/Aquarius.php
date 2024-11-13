@@ -8,9 +8,9 @@ use Intervention\Zodiac\AbstractZodiac;
 
 class Aquarius extends AbstractZodiac
 {
-    protected int $startDay = 21;
+    protected int $startDay = 20;
     protected int $startMonth = 1;
-    protected int $endDay = 19;
+    protected int $endDay = 18;
     protected int $endMonth = 2;
     protected string $name = 'aquarius';
     protected string $html = '&#9810;';
