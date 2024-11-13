@@ -12,6 +12,6 @@ class Scorpio extends AbstractZodiac
     protected int $startMonth = 10;
     protected int $endDay = 21;
     protected int $endMonth = 11;
-    protected string $name = 'scorpio';
+    public string $name = 'scorpio';
     protected string $html = '&#9807;';
 }

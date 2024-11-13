@@ -12,6 +12,6 @@ class Pisces extends AbstractZodiac
     protected int $startMonth = 2;
     protected int $endDay = 20;
     protected int $endMonth = 3;
-    protected string $name = 'pisces';
+    public string $name = 'pisces';
     protected string $html = '&#9811;';
 }

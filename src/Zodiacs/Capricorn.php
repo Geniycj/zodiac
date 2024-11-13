@@ -12,6 +12,6 @@ class Capricorn extends AbstractZodiac
     protected int $startMonth = 12;
     protected int $endDay = 19;
     protected int $endMonth = 1;
-    protected string $name = 'capricorn';
+    public string $name = 'capricorn';
     protected string $html = '&#9809;';
 }

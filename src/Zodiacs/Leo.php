@@ -12,6 +12,6 @@ class Leo extends AbstractZodiac
     protected int $startMonth = 7;
     protected int $endDay = 22;
     protected int $endMonth = 8;
-    protected string $name = 'leo';
+    public string $name = 'leo';
     protected string $html = '&#9804;';
 }

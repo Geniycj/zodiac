@@ -12,6 +12,6 @@ class Virgo extends AbstractZodiac
     protected int $startMonth = 8;
     protected int $endDay = 22;
     protected int $endMonth = 9;
-    protected string $name = 'virgo';
+    public string $name = 'virgo';
     protected string $html = '&#9805;';
 }

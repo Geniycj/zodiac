@@ -12,6 +12,6 @@ class Aries extends AbstractZodiac
     protected int $startMonth = 3;
     protected int $endDay = 19;
     protected int $endMonth = 4;
-    protected string $name = 'aries';
+    public string $name = 'aries';
     protected string $html = '&#9800;';
 }

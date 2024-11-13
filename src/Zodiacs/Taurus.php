@@ -12,6 +12,6 @@ class Taurus extends AbstractZodiac
     protected int $startMonth = 4;
     protected int $endDay = 20;
     protected int $endMonth = 5;
-    protected string $name = 'taurus';
+    public string $name = 'taurus';
     protected string $html = '&#9801;';
 }

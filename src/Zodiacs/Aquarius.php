@@ -12,6 +12,6 @@ class Aquarius extends AbstractZodiac
     protected int $startMonth = 1;
     protected int $endDay = 18;
     protected int $endMonth = 2;
-    protected string $name = 'aquarius';
+    public string $name = 'aquarius';
     protected string $html = '&#9810;';
 }
